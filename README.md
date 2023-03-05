@@ -1,9 +1,9 @@
 <div align="center">
-<h1> 👋 Hi, I’m @romanwashere </h1>
+<h1> 👋 Hi, I’m @Airfax8 </h1>
 <p> A high school student trying to gradually learn to code ❤ </p>
   
 <h1> ❔ About </h1>
-  <p> 🏷 My name is Tolga </p>
+  <p> 🏷 My name is Melih </p>
   <p> 🤓 I am back-end developer </p>
   <p> 🏳 I live in Turkey </p>
   <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
